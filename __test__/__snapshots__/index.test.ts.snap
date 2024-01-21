@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createTsTypeMapFromModule test 1`] = `
+Map {
+  "IGetDetailReq" => {
+    "tsTypeLiteral": "{
+totalCheckInCnt?: number;
+readUVCnt?: number;
+
+/** (persons_desc) */
+persons?: Array<{
+id: number;
+cnName?: string;
+receiveFlowerTotalCount?: number;
+receiveFlowerUserCount?: number;
+pavilionCategoryId?: number;
+cover?: string;
+deedDesc?: string;
+isDead?: any
+}>
+}",
+  },
+}
+`;
