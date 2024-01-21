@@ -1,6 +1,6 @@
 {
   "name": "ah-schema-ts-generator",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "main": "dist/index.js",
   "files": [
     "dist"
